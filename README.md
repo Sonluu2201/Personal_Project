@@ -5,7 +5,7 @@
   * Visualize and analyze data  
 Sales Profit Report: 
   https://tinyurl.com/Sale-report  
-  ![Profit](link)  
+  ![Profit](profit report.png)  
 S&P500 Stocks Report:
   https://tinyurl.com/Us-stockreport  
   ![S&P500](link)
