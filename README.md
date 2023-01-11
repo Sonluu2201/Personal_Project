@@ -1,3 +1,8 @@
+**Certificate**
+  * [DP-900: Azure Data Fundamental](https://datapot.vn/student/?id=22000219_DP900) 
+  * [DP-080: Querying Data with Microsoft T-SQL] (https://goeco.link/DP080)
+  * [PL-300: Microsoft Power BI Data Analyst](https://goeco.link/PL300)
+  * VTC Academy Python Developer For AI:
 **Power BI Project:**  
   * Load, TranSform and Clean data with Power Query
   * Build Model data
